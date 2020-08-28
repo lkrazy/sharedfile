@@ -1,0 +1,20 @@
+item {
+    id: 1
+    display_name: "HSBC Logo"
+}
+
+item {
+    id: 2
+    display_name: "HSBC Visa"
+}
+
+item {
+    id: 3
+    display_name: "Visa Chip"
+}
+
+item {
+    id: 4
+    display_name: "Visa Logo"
+}
+
